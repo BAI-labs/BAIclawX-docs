@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs-test.b.ai',
+  url: 'https://docs.b.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -24,8 +24,9 @@ const config: Config = {
   organizationName: 'bai', // Usually your GitHub org/user name.
   projectName: 'bai-claw', // Usually your repo name.
 
-  onBrokenLinks: 'warn',         // <-- 把 'throw' 改成 'warn'
-  onBrokenMarkdownLinks: 'warn', // <-- 建议把 Markdown 死链检查也改成 'warn'
+  trailingSlash: true,
+  onBrokenLinks: 'throw',         // <-- 把 'throw' 改成 'warn'
+  //onBrokenMarkdownLinks: 'warn', // <-- 建议把 Markdown 死链检查也改成 'warn'
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -107,3 +108,6 @@ const config: Config = {
 };
 
 export default config;
+
+
+
