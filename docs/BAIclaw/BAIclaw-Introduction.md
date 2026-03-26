@@ -101,4 +101,3 @@ If you're new to BAIclaw, we recommend following this order:
 ## Further Reading
 
 - [OpenClaw Official Documentation](https://docs.openclaw.ai/) — Learn about the underlying runtime
-- [ClawX Project Page](https://github.com/ValueCell-ai/ClawX) — Reference for skill development
