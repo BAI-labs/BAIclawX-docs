@@ -5,7 +5,7 @@ sidebar_position: 1
 slug: /
 ---
 
-## Introduction
+## BAIclaw Introduction
 
 **BAIclaw** is a personal AI agent application built on [OpenClaw](https://openclaw.ai/) and [ClawX](https://github.com/ValueCell-ai/ClawX/blob/main/README.md). BAIclaw inherits the core capabilities of OpenClaw while providing users with an out-of-the-box experience and graphical user interface.
 
