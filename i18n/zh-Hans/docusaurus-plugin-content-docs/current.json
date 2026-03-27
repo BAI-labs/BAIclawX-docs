@@ -10,5 +10,9 @@
   "sidebar.tutorialSidebar.category.How to Add Channels": {
     "message": "如何添加频道",
     "description": "The label for category 'How to Add Channels' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Operation Guide": {
+    "message": "操作指引",
+    "description": "The label for category 'Operation Guide' in sidebar 'tutorialSidebar'"
   }
 }

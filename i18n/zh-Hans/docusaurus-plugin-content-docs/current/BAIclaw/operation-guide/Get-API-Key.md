@@ -55,5 +55,5 @@ sidebar_position: 2
 ## 下一步
 
 配置好 API 密钥后：
-- [设置你的第一个智能体](./BAIclaw-Introduction.md#multi-agent-collaboration)
-- 探索可用于扩展能力的 [技能](./BAIclaw-Introduction.md#plug-and-play-skills)
+- [设置你的第一个智能体](../BAIclaw-Introduction.md#multi-agent-collaboration)
+- 探索可用于扩展能力的 [技能](../BAIclaw-Introduction.md#plug-and-play-skills)

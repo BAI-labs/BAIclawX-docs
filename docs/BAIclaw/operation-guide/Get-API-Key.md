@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Get API Key
 
@@ -55,7 +55,7 @@ If you encounter errors when testing:
 ## Next Steps
 
 Once your API Key is configured:
-- [Set up your first agent](./BAIclaw-Introduction.md#multi-agent-collaboration)
-- Explore the [Skills](./BAIclaw-Introduction.md#plug-and-play-skills) available to extend capabilities
+- [Set up your first agent](../BAIclaw-Introduction.md#multi-agent-collaboration)
+- Explore the [Skills](../BAIclaw-Introduction.md#plug-and-play-skills) available to extend capabilities
 
 
