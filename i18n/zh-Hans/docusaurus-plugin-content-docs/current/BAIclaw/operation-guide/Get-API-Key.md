@@ -19,16 +19,16 @@ sidebar_position: 2
 1. 在左侧边栏找到 **API** 部分
 2. 点击打开 API 管理页面
 3. 点击 **Create API Key** 按钮
-4. 为你的密钥起一个描述性名称（例如："BAIclaw Desktop"）
+4. 为你的密钥起一个描述性名称（例如："BAIclaw"）
 5. 立即复制生成的密钥 —— 它只会显示一次
 
 ![](./assets/BAI.jpeg)
 
 ## 步骤 3：在 BAIclaw 中配置
 
-1. 打开 BAIclaw，进入 **Models** 页面
+1. 打开 BAIclaw，进入 **模型** 页面
 2. 将复制的 API 密钥粘贴到 BAI API Key 字段中
-3. 点击 **Save** 或 **Verify** 确认连接
+3. 点击确认
 
 :::danger[安全警告]
 **请始终妥善保管你的 API 密钥：**
@@ -41,7 +41,7 @@ sidebar_position: 2
 
 要验证你的 API 密钥是否正常工作：
 
-1. 进入 BAIclaw 的 **Chat** 页面
+1. 进入 BAIclaw 的 **对话** 页面
 2. 发送一条简单的测试消息（例如："Hello"）
 3. 如果收到回复，说明你的 API 密钥已正确配置
 

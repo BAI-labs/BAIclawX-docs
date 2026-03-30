@@ -16,8 +16,9 @@ Agent Wallet 是一种特殊的钱包类型，专为 AI 场景设计：
 - **x402 协议支持**：可访问基于 x402 协议的付费资源
 
 :::info[Agent Wallet 与普通钱包的区别]
-普通钱包由人类手动操作，而 Agent Wallet 授权给 AI 代理使用，使 AI 能够代表你执行链上操作。
+普通钱包由人类手动操作，而 Agent Wallet 授权给 AI 代理使用，使 AI 能够代表你执行链上操作。[了解更多 Agent Wallet 知识](https://docs.bankofai.io/Agent-Wallet/Intro/)。
 :::
+
 
 ## 核心功能
 
@@ -74,7 +75,7 @@ Agent Wallet 是一种特殊的钱包类型，专为 AI 场景设计：
 | 查询汇率 | "查一下 USDT 兑换 TRX 的汇率" |
 | 余额查询 | "看看我的 BAI 账户余额" |
 | 订单记录 | "显示我最近的订单记录" |
-| 代币转账 | "转 100 USDT 到指定地址" |
+| 代币转账 | "为我充值 10 USDT " |
 
 ## 常见问题
 

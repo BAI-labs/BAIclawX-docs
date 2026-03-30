@@ -16,7 +16,7 @@ Agent Wallet is a special type of wallet designed for AI scenarios:
 - **x402 Protocol Support**: Access paid resources based on the x402 protocol
 
 :::info[How Agent Wallet Differs from Regular Wallets]
-Regular wallets are manually operated by humans, while Agent Wallet is authorized for use by AI agents, enabling AI to execute on-chain operations on your behalf.
+Regular wallets are manually operated by humans, while Agent Wallet is authorized for use by AI agents, enabling AI to execute on-chain operations on your behalf. [Learn more about Agent Wallet](https://docs.bankofai.io/Agent-Wallet/Intro/)
 :::
 
 ## Core Features
@@ -74,7 +74,7 @@ After successfully creating an Agent Wallet, you can ask BAIclaw to help you wit
 | Check Exchange Rate | "Check the USDT to TRX exchange rate" |
 | Balance Inquiry | "Show my BAI account balance" |
 | Order History | "Show my recent order history" |
-| Token Transfer | "Transfer 100 USDT to the specified address" |
+| Token Transfer | "Recharge 1 USDT to my BAI account" |
 
 ## FAQ
 
