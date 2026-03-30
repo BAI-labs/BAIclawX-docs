@@ -40,6 +40,9 @@ You **must add and configure a BAI API Key before** creating an Agent Wallet, ot
 :::
 
 ### Steps
+1. **Create Wallet**
+   - Open **Settings/web3**
+   - Click the **Create Wallet** button to the right of **Agent Wallet**.
 
 1. **Import Private Key**
    - Import the wallet private key associated with your BAI API Key
@@ -74,7 +77,7 @@ After successfully creating an Agent Wallet, you can ask BAIclaw to help you wit
 | Check Exchange Rate | "Check the USDT to TRX exchange rate" |
 | Balance Inquiry | "Show my BAI account balance" |
 | Order History | "Show my recent order history" |
-| Token Transfer | "Recharge 1 USDT to my BAI account" |
+| Token Transfer | "Recharge 10 USDT to my BAI account" |
 
 ## FAQ
 

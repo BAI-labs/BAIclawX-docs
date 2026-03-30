@@ -37,17 +37,20 @@ Agent Wallet 是一种特殊的钱包类型，专为 AI 场景设计：
 ### 前置条件
 
 :::warning[重要前提]
-创建 Agent Wallet **前必须先添加并配置 BAI 的 API Key**，否则无法创建钱包。了解[如何获取API Key](operation-guide/Get-API-Key.md)
+创建 Agent Wallet **前必须先添加并配置 BAI 的 API Key**，否则无法创建钱包。了解 [如何获取API Key](operation-guide/Get-API-Key.md)
 :::
 
 ### 步骤说明
+1. **创建钱包**
+   - 打开 **设置/web3配置**
+   - 点击 Agent Wallet 右侧的 **创建钱包** 按钮
 
-1. **导入私钥**
+2. **导入私钥**
    - 导入与 BAI API Key 关联的钱包私钥
    - 目前仅支持 **TRON 地址**
    - 私钥对应的地址必须与 API Key 所在账户地址一致
 
-2. **设置主密码**
+3. **设置主密码**
    - 要求至少 8 位字符
    - 必须包含大小写字母、数字及特殊字符
    - 用于加密保护本地钱包文件
