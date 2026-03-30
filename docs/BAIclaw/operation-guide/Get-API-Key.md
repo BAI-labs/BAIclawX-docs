@@ -52,10 +52,5 @@ If you encounter errors when testing:
 - Verify your BAI account has available quota
 :::
 
-## Next Steps
-
-Once your API Key is configured:
-- [Set up your first agent](../BAIclaw-Introduction.md#multi-agent-collaboration)
-- Explore the [Skills](../BAIclaw-Introduction.md#plug-and-play-skills) available to extend capabilities
 
 
