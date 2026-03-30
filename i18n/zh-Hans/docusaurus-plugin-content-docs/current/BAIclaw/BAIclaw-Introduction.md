@@ -7,6 +7,8 @@ slug: /
 
 BAIclaw 是一款基于 [OpenClaw](https://openclaw.ai/) 和 [ClawX](https://github.com/ValueCell-ai/ClawX/blob/main/README.md) 构建的个人 AI 智能体桌面应用。它将 OpenClaw 的强大功能与图形用户界面相结合，让用户无需编写代码或配置文件即可拥有完整的个人 AI 助手。
 
+<!-- ![BAIclaw](assets/BAIclaw.png) -->
+
 ## 解决的问题
 
 传统 AI 工具通常面临以下挑战：
