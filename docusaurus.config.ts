@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'BAI | Developer Guide',
+  title: 'BAI | Docs',
   tagline: 'BAI All in AI',
   favicon: 'img/favicon.ico',
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -21,8 +21,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'bai', // Usually your GitHub org/user name.
-  projectName: 'bai-claw', // Usually your repo name.
+  organizationName: 'BAI-labs', // Usually your GitHub org/user name.
+  projectName: 'BAIclaw-core', // Usually your repo name.
 
   trailingSlash: true,
   onBrokenLinks: 'throw',         // <-- 把 'throw' 改成 'warn'
@@ -76,11 +76,10 @@ const config: Config = {
       title: '',
       logo: {
         alt: 'BAI',
-        src: 'img/logo.png', // 浅色模式
-        srcDark: 'img/logo_dark.png', // 深色模式
+        src: 'img/logo_light.svg', // 浅色模式
+        srcDark: 'img/logo_dark.svg', // 深色模式
         href: '/',
         height: 36,
-        width: 154,
       },
       items: [
         {
@@ -88,7 +87,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/2026BAI/docs',
+          href: 'https://github.com/BAI-labs/BAIclaw-core',
           label: 'GitHub',
           position: 'right',
         },
@@ -98,7 +97,7 @@ const config: Config = {
       style: 'dark',
       links: [
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} BAI Inc..`,
+      copyright: `Copyright © ${new Date().getFullYear()} BAI Inc. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,
