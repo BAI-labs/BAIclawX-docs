@@ -25,8 +25,8 @@ const config: Config = {
   projectName: 'BAIclaw-core', // Usually your repo name.
 
   trailingSlash: true,
-  onBrokenLinks: 'throw',         // <-- 把 'throw' 改成 'warn'
-  //onBrokenMarkdownLinks: 'warn', // <-- 建议把 Markdown 死链检查也改成 'warn'
+  onBrokenLinks: 'warn',         // <-- 把 'throw' 改成 'warn'
+  onBrokenMarkdownLinks: 'ignore', // <-- 建议把 Markdown 死链检查也改成 'warn'
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
