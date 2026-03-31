@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 # Get API Key
 
-To use BAIclaw, you need an API Key from BAI. This key authenticates your requests and grants access to the large language model capabilities.
+To use BAIclaw, you need an API Key from [BAI](https://chat.bankofai.io/chat). This key authenticates your requests and grants access to the large language model capabilities.
 
 ## What You Need
 
-- A BAI account (free to register)
+- A [BAI](https://chat.bankofai.io/chat) account (free to register)
 
 ## Step 1: Log in to BAI
 
