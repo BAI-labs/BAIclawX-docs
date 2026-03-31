@@ -95,5 +95,4 @@ BAIclaw 的主界面由以下功能模块组成，各模块相互配合形成完
 
 ## 延伸阅读
 
-- [OpenClaw 官方文档](https://docs.openclaw.ai/) — 了解底层运行时
-行时
+- [OpenClaw 官方文档](https://docs.openclaw.ai/) — 了解底层运行时。

@@ -99,4 +99,4 @@ If you're new to BAIclaw, we recommend following this order:
 
 ## Further Reading
 
-- [OpenClaw Official Documentation](https://docs.openclaw.ai/) — Learn about the underlying runtimeruntime
+- [OpenClaw Official Documentation](https://docs.openclaw.ai/) — Learn about the underlying runtime.
